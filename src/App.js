@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Luis
+          Learn React Luis, Nacho, Alfonso
         </a>
       </header>
     </div>
