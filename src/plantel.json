@@ -1,0 +1,218 @@
+[
+    {
+      "No": 1,
+      "Jugador": "Garcia, A",
+      "Pos": "Gol",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 100
+    },
+    {
+      "No": 12,
+      "Jugador": "Lopez, M",
+      "Pos": "Gol",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 90
+    },
+    {
+      "No": 21,
+      "Jugador": "Mina, K",
+      "Pos": "Gol",
+      "Stat": "Juv",
+      "Cond": "OK",
+      "Min": 90
+    },
+    {
+      "No": 2,
+      "Jugador": "Mora, L",
+      "Pos": "Zag",
+      "Stat": "Prof",
+      "Cond": "SA",
+      "Min": 45
+    },
+    {
+      "No": 4,
+      "Jugador": "Martinez, K",
+      "Pos": "Lat",
+      "Stat": "Prof",
+      "Cond": "L",
+      "Min": 0
+    },
+    {
+      "No": 14,
+      "Jugador": "Lomeri, L",
+      "Pos": "Zag",
+      "Stat": "Prof",
+      "Cond": "FU",
+      "Min": null
+    },
+    {
+      "No": 32,
+      "Jugador": "Gimenez, O",
+      "Pos": "Zag",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 100
+    },
+    {
+      "No": 3,
+      "Jugador": "Romero P",
+      "Pos": "Zag",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 100
+    },
+    {
+      "No": 6,
+      "Jugador": "Kolinto M",
+      "Pos": "Lat",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 15,
+      "Jugador": "Marin J",
+      "Pos": "Lat",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 22,
+      "Jugador": "Gomez H",
+      "Pos": "Lat",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 100
+    },
+    {
+      "No": 5,
+      "Jugador": "Alonso T",
+      "Pos": "Vol",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 8,
+      "Jugador": "Erazo L",
+      "Pos": "Vol",
+      "Stat": "Prof",
+      "Cond": "SA",
+      "Min": 60
+    },
+    {
+      "No": 19,
+      "Jugador": "Polino R",
+      "Pos": "Zag",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 16,
+      "Jugador": "Robira,S",
+      "Pos": "Vol",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 22,
+      "Jugador": "Torrez,R",
+      "Pos": "Vol",
+      "Stat": "Prof",
+      "Cond": "SA",
+      "Min": 60
+    },
+    {
+      "No": 23,
+      "Jugador": "Suarez,O",
+      "Pos": "Vol",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 7,
+      "Jugador": "Paganini,R",
+      "Pos": "Ext",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 11,
+      "Jugador": "Alvarez,R.",
+      "Pos": "Ext",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 9,
+      "Jugador": "Zurito,D",
+      "Pos": "Del",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 10,
+      "Jugador": "Reyes,L",
+      "Pos": "Del",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 18,
+      "Jugador": "Vidal,E",
+      "Pos": "Del",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 25,
+      "Jugador": "Hernandez,L",
+      "Pos": "Del",
+      "Stat": "Juv",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 24,
+      "Jugador": "Martinez,M",
+      "Pos": "Del",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 17,
+      "Jugador": "Gonzalez,E",
+      "Pos": "Ext",
+      "Stat": "Prof",
+      "Cond": "OK",
+      "Min": 100
+    },
+    {
+      "No": 18,
+      "Jugador": "Perez,F",
+      "Pos": "Ext",
+      "Stat": "Juv",
+      "Cond": "OK",
+      "Min": 128
+    },
+    {
+      "No": 26,
+      "Jugador": "Mautone,F",
+      "Pos": "Lat",
+      "Stat": "Juv",
+      "Cond": "AD",
+      "Min": 0
+    }
+   ]
