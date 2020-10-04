@@ -1,24 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import NavBar from './components/Navbar';
+import Header_pl_diaria from './components/Planif_Diaria/Header_pl_diaria';
+import Plantel from './components/Planif_Diaria/Plantel';
+import { BrowserRouter as Router, Route} from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React Luis, Nacho, Alfonso
-        </a>
-      </header>
+      <Router>
+        <NavBar/>
+      </Router>
+      <Header_pl_diaria/>
+      <Plantel/>
     </div>
   );
 }
