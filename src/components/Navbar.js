@@ -7,7 +7,22 @@ import logo from '../img/logo.png'
 
 const NavBar = () => {
   return (
-<Container>
+    <div className="ui top menu">
+      <div className="item">
+        <img className="ui mini circular image" src={logo} />
+      </div>
+      <a className="item">Planificacion</a>
+      <a className="item">Entrenamientos</a>
+      <a className="item">Deportistas</a>
+      <a className="item">Reportes</a>
+      <a className="item">Comunicaciones</a>
+      <a className="item">Scouting</a>
+    </div>)
+
+
+
+
+{/* <Container>
   <Navbar collapseOnSelect expand="lg" bg="primary" variant="dark" sticky="top">
   <Navbar.Brand href="#workoutslabs">
       <Image
@@ -32,8 +47,8 @@ const NavBar = () => {
         </Nav>
     </Navbar.Collapse>
   </Navbar>
-</Container>
-  );
+</Container> 
+  ); */}
 };
 
 export default NavBar;

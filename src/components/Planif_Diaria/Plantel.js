@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Jugador_Plantel from './Jugador_Plantel';
 import {Container, Table}  from 'react-bootstrap';
 
 const TableHeader = () => { 
@@ -16,31 +17,20 @@ const TableHeader = () => {
     );
 }
 
-const TableBody = props => { 
-    const rows = props.plantelData.map((row, index) => {
-        return (
-            <tr key={index}>
-                <td>{row.No}</td>
-                <td>{row.Nombre}</td>
-                <td>{row.Posicion}</td>
-                <td>{row.Stat}</td>
-                <td>{row.Cond}</td>
-                <td>{row.Min}</td>
-                <td><button onClick={() => props.removePerson(index)}>X</button></td>
-            </tr>
-        );
-    });
-
-    return <tbody>{rows}</tbody>;
-}
 
 const Plantel = (props) => {
     const { plantelData, removePerson } = props;
         return (
-            <table>
-                <TableHeader />
-                <TableBody plantelData={plantelData} removePerson={removePerson} />
-            </table>
+            <div>
+                <div className="ui fluid icon input">
+                    <input type="text" placeholder="Buscar Jugador..." />
+                    <i className="search icon"></i>
+                </div>
+                <table className="ui selectable celled table collapsing compact">
+                    <TableHeader />
+                    <Jugador_Plantel plantelData={plantelData} removePerson={removePerson} />
+                </table>
+            </div>
         );
 }
 
